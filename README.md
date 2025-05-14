@@ -1,4 +1,6 @@
-📌 About Me
+
+
+💻🧑‍💻 About Me
 
 Hi! I'm Albin Lopez, a Software Development student at ITLA (Instituto Tecnológico de Las Américas). I'm passionate about technology, always looking for new challenges and ways to improve my skills in programming and software design.
 
