@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Albin Lopez!
 
 [![GitHub followers](https://img.shields.io/github/followers/alkysdesaroller?style=social)](https://github.com/alkysdesaroller)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/albin-lopez-69563a280/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:your-email@domain.com)
 
 ## 👨‍💻 About Me
